@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sie33
+- 👋 Hi, I’m @Sibongile Magwaza 
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning software engineering with Alx and applied mathematics with economics at the unit of Zimbabwe 
 - 💞️ I’m looking to collaborate on everything related to code
